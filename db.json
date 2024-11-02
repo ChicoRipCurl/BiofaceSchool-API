@@ -1,273 +1,273 @@
 {
-    "universities": [
+  "universities": [
       {
-        "id": 1,
-        "name": "UPC",
-        "campuses": [
-          {
-            "id": 1,
-            "name": "Campus Monterrico",
-            "image": "https://imgur.com/FUOvBTg",
-            "faculties": [
+          "id": 1,
+          "name": "UPC",
+          "campuses": [
               {
-                "id": 1,
-                "name": "Facultad de Negocios",
-                "image": "https://imgur.com/KALiRw3"
+                  "id": 1,
+                  "name": "Campus Monterrico",
+                  "image": "https://i.imgur.com/FUOvBTg.png",
+                  "faculties": [
+                      {
+                          "id": 1,
+                          "name": "Facultad de Negocios",
+                          "image": "https://i.imgur.com/KALiRw3.png"
+                      },
+                      {
+                          "id": 2,
+                          "name": "Facultad de Ciencias de la Salud",
+                          "image": "https://i.imgur.com/Uew1gnL.png"
+                      },
+                      {
+                          "id": 3,
+                          "name": "Facultad de Comunicaciones",
+                          "image": "https://i.imgur.com/B1dvOBj.png"
+                      },
+                      {
+                          "id": 4,
+                          "name": "Facultad de Derecho",
+                          "image": "https://i.imgur.com/NLydYaW.png"
+                      },
+                      {
+                          "id": 5,
+                          "name": "Facultad de Economía",
+                          "image": "https://i.imgur.com/pTVT4GU.png"
+                      },
+                      {
+                          "id": 6,
+                          "name": "Facultad de Ingeniería",
+                          "image": "https://i.imgur.com/vPqjw3u.png"
+                      },
+                      {
+                          "id": 7,
+                          "name": "Facultad de Ciencias Humanas",
+                          "image": "https://i.imgur.com/DJmyxGJ.png"
+                      },
+                      {
+                          "id": 8,
+                          "name": "Facultad de Administración en Hotelería y Turismo",
+                          "image": "https://i.imgur.com/fxmKbbX.png"
+                      },
+                      {
+                          "id": 9,
+                          "name": "Facultad de Arquitectura",
+                          "image": "https://i.imgur.com/H6zBqOM.png"
+                      },
+                      {
+                          "id": 10,
+                          "name": "Facultad de Artes Contemporáneas",
+                          "image": "https://i.imgur.com/r7T5tXX.png"
+                      },
+                      {
+                          "id": 11,
+                          "name": "Facultad de Diseño",
+                          "image": "https://i.imgur.com/PdOqtsu.png"
+                      },
+                      {
+                          "id": 12,
+                          "name": "Facultad de Psicología",
+                          "image": "https://i.imgur.com/gsYSSnJ.png"
+                      }
+                  ]
               },
               {
-                "id": 2,
-                "name": "Facultad de Ciencias de la Salud",
-                "image": "https://imgur.com/Uew1gnL"
+                  "id": 2,
+                  "name": "Campus Villa",
+                  "image": "https://i.imgur.com/MuA161G.png",
+                  "faculties": [
+                      {
+                          "id": 13,
+                          "name": "Facultad de Negocios",
+                          "image": "https://i.imgur.com/KALiRw3.png"
+                      },
+                      {
+                          "id": 14,
+                          "name": "Facultad de Arquitectura",
+                          "image": "https://i.imgur.com/H6zBqOM.png"
+                      },
+                      {
+                          "id": 15,
+                          "name": "Facultad de Comunicaciones",
+                          "image": "https://i.imgur.com/B1dvOBj.png"
+                      },
+                      {
+                          "id": 16,
+                          "name": "Facultad de Derecho",
+                          "image": "https://i.imgur.com/NLydYaW.png"
+                      },
+                      {
+                          "id": 17,
+                          "name": "Facultad de Diseño",
+                          "image": "https://i.imgur.com/PdOqtsu.png"
+                      },
+                      {
+                          "id": 18,
+                          "name": "Facultad de Ingeniería",
+                          "image": "https://i.imgur.com/vPqjw3u.png"
+                      },
+                      {
+                          "id": 19,
+                          "name": "Facultad de Ciencias Humanas",
+                          "image": "https://i.imgur.com/DJmyxGJ.png"
+                      },
+                      {
+                          "id": 20,
+                          "name": "Facultad de Ciencias de la Salud",
+                          "image": "https://i.imgur.com/Uew1gnL.png"
+                      },
+                      {
+                          "id": 21,
+                          "name": "Facultad de Artes Contemporáneas",
+                          "image": "https://i.imgur.com/r7T5tXX.png"
+                      }
+                  ]
               },
               {
-                "id": 3,
-                "name": "Facultad de Comunicaciones",
-                "image": "https://imgur.com/B1dvOBj"
+                  "id": 3,
+                  "name": "Campus San Isidro",
+                  "image": "https://i.imgur.com/v4MBYoU.png",
+                  "faculties": [
+                      {
+                          "id": 22,
+                          "name": "Facultad de Negocios",
+                          "image": "https://i.imgur.com/KALiRw3.png"
+                      },
+                      {
+                          "id": 23,
+                          "name": "Facultad de Comunicaciones",
+                          "image": "https://i.imgur.com/B1dvOBj.png"
+                      },
+                      {
+                          "id": 24,
+                          "name": "Facultad de Derecho",
+                          "image": "https://i.imgur.com/NLydYaW.png"
+                      },
+                      {
+                          "id": 25,
+                          "name": "Facultad de Economía",
+                          "image": "https://i.imgur.com/pTVT4GU.png"
+                      },
+                      {
+                          "id": 26,
+                          "name": "Facultad de Educación",
+                          "image": "https://i.imgur.com/DvBO1pR.png"
+                      },
+                      {
+                          "id": 27,
+                          "name": "Facultad de Ingeniería",
+                          "image": "https://i.imgur.com/vPqjw3u.png"
+                      },
+                      {
+                          "id": 28,
+                          "name": "Facultad de Psicología",
+                          "image": "https://i.imgur.com/gsYSSnJ.png"
+                      }
+                  ]
               },
               {
-                "id": 4,
-                "name": "Facultad de Derecho",
-                "image": "https://imgur.com/NLydYaW"
-              },
-              {
-                "id": 5,
-                "name": "Facultad de Economía",
-                "image": "https://imgur.com/pTVT4GU"
-              },
-              {
-                "id": 6,
-                "name": "Facultad de Ingeniería",
-                "image": "https://imgur.com/vPqjw3u"
-              },
-              {
-                "id": 7,
-                "name": "Facultad de Ciencias Humanas",
-                "image": "https://imgur.com/DJmyxGJ"
-              },
-              {
-                "id": 8,
-                "name": "Facultad de Administración en Hotelería y Turismo",
-                "image": "https://imgur.com/fxmKbbX"
-              },
-              {
-                "id": 9,
-                "name": "Facultad de Arquitectura",
-                "image": "https://imgur.com/H6zBqOM"
-              },
-              {
-                "id": 10,
-                "name": "Facultad de Artes Contemporáneas",
-                "image": "https://imgur.com/r7T5tXX"
-              },
-              {
-                "id": 11,
-                "name": "Facultad de Diseño",
-                "image": "https://imgur.com/PdOqtsu"
-              },
-              {
-                "id": 12,
-                "name": "Facultad de Psicología",
-                "image": "https://imgur.com/gsYSSnJ"
+                  "id": 4,
+                  "name": "Campus San Miguel",
+                  "image": "https://i.imgur.com/p0n7ZeF.png",
+                  "faculties": [
+                      {
+                          "id": 29,
+                          "name": "Facultad de Arquitectura",
+                          "image": "https://i.imgur.com/H6zBqOM.png"
+                      },
+                      {
+                          "id": 30,
+                          "name": "Facultad de Artes Contemporáneas",
+                          "image": "https://i.imgur.com/r7T5tXX.png"
+                      },
+                      {
+                          "id": 31,
+                          "name": "Facultad de Comunicaciones",
+                          "image": "https://i.imgur.com/B1dvOBj.png"
+                      },
+                      {
+                          "id": 32,
+                          "name": "Facultad de Derecho",
+                          "image": "https://i.imgur.com/NLydYaW.png"
+                      },
+                      {
+                          "id": 33,
+                          "name": "Facultad de Diseño",
+                          "image": "https://i.imgur.com/PdOqtsu.png"
+                      },
+                      {
+                          "id": 34,
+                          "name": "Facultad de Economía",
+                          "image": "https://i.imgur.com/pTVT4GU.png"
+                      },
+                      {
+                          "id": 35,
+                          "name": "Facultad de Psicología",
+                          "image": "https://i.imgur.com/gsYSSnJ.png"
+                      },
+                      {
+                          "id": 36,
+                          "name": "Facultad de Negocios",
+                          "image": "https://i.imgur.com/KALiRw3.png"
+                      },
+                      {
+                          "id": 37,
+                          "name": "Facultad de Ingeniería",
+                          "image": "https://i.imgur.com/vPqjw3u.png"
+                      }
+                  ]
               }
-            ]
-          },
-          {
-            "id": 2,
-            "name": "Campus Villa",
-            "image": "https://imgur.com/MuA161G",
-            "faculties": [
-              {
-                "id": 13,
-                "name": "Facultad de Negocios",
-                "image": "https://imgur.com/KALiRw3"
-              },
-              {
-                "id": 14,
-                "name": "Facultad de Arquitectura",
-                "image": "https://imgur.com/H6zBqOM"
-              },
-              {
-                "id": 15,
-                "name": "Facultad de Comunicaciones",
-                "image": "https://imgur.com/B1dvOBj"
-              },
-              {
-                "id": 16,
-                "name": "Facultad de Derecho",
-                "image": "https://imgur.com/NLydYaW"
-              },
-              {
-                "id": 17,
-                "name": "Facultad de Diseño",
-                "image": "https://imgur.com/PdOqtsu"
-              },
-              {
-                "id": 18,
-                "name": "Facultad de Ingeniería",
-                "image": "https://imgur.com/vPqjw3u"
-              },
-              {
-                "id": 19,
-                "name": "Facultad de Ciencias Humanas",
-                "image": "https://imgur.com/DJmyxGJ"
-              },
-              {
-                "id": 20,
-                "name": "Facultad de Ciencias de la Salud",
-                "image": "https://imgur.com/Uew1gnL"
-              },
-              {
-                "id": 21,
-                "name": "Facultad de Artes Contemporáneas",
-                "image": "https://imgur.com/r7T5tXX"
-              }
-            ]
-          },
-          {
-            "id": 3,
-            "name": "Campus San Isidro",
-            "image": "https://imgur.com/v4MBYoU",
-            "faculties": [
-              {
-                "id": 22,
-                "name": "Facultad de Negocios",
-                "image": "https://imgur.com/KALiRw3"
-              },
-              {
-                "id": 23,
-                "name": "Facultad de Comunicaciones",
-                "image": "https://imgur.com/B1dvOBj"
-              },
-              {
-                "id": 24,
-                "name": "Facultad de Derecho",
-                "image": "https://imgur.com/NLydYaW"
-              },
-              {
-                "id": 25,
-                "name": "Facultad de Economía",
-                "image": "https://imgur.com/pTVT4GU"
-              },
-              {
-                "id": 26,
-                "name": "Facultad de Educación",
-                "image": "https://imgur.com/DvBO1pR"
-              },
-              {
-                "id": 27,
-                "name": "Facultad de Ingeniería",
-                "image": "https://imgur.com/vPqjw3u"
-              },
-              {
-                "id": 28,
-                "name": "Facultad de Psicología",
-                "image": "https://imgur.com/gsYSSnJ"
-              }
-            ]
-          },
-          {
-            "id": 4,
-            "name": "Campus San Miguel",
-            "image": "https://imgur.com/p0n7ZeF",
-            "faculties": [
-              {
-                "id": 29,
-                "name": "Facultad de Arquitectura",
-                "image": "https://imgur.com/H6zBqOM"
-              },
-              {
-                "id": 30,
-                "name": "Facultad de Artes Contemporáneas",
-                "image": "https://imgur.com/r7T5tXX"
-              },
-              {
-                "id": 31,
-                "name": "Facultad de Comunicaciones",
-                "image": "https://imgur.com/B1dvOBj"
-              },
-              {
-                "id": 32,
-                "name": "Facultad de Derecho",
-                "image": "https://imgur.com/NLydYaW"
-              },
-              {
-                "id": 33,
-                "name": "Facultad de Diseño",
-                "image": "https://imgur.com/PdOqtsu"
-              },
-              {
-                "id": 34,
-                "name": "Facultad de Economía",
-                "image": "https://imgur.com/pTVT4GU"
-              },
-              {
-                "id": 35,
-                "name": "Facultad de Psicología",
-                "image": "https://imgur.com/gsYSSnJ"
-              },
-              {
-                "id": 36,
-                "name": "Facultad de Negocios",
-                "image": "https://imgur.com/KALiRw3"
-              },
-              {
-                "id": 37,
-                "name": "Facultad de Ingeniería",
-                "image": "https://imgur.com/vPqjw3u"
-              }
-            ]
-          }
-        ]
+          ]
       }
-    ],
-    "students": [
+  ],
+  "students": [
       {
-        "id": 1,
-        "name": "Ana",
-        "lastname": "García",
-        "email": "ana.garcia@upc.edu.pe",
-        "password": "securepass123",
-        "institution_name": "UPC",
-        "profile_picture": "https://imgur.com/hCMFf6B",
-        "role": "student",
-        "campus_id": 1,
-        "faculty_id": 6
+          "id": 1,
+          "name": "Ana",
+          "lastname": "García",
+          "email": "ana.garcia@upc.edu.pe",
+          "password": "securepass123",
+          "institution_name": "UPC",
+          "profile_picture": "https://i.imgur.com/hCMFf6B.png",
+          "role": "student",
+          "campus_id": 1,
+          "faculty_id": 6
       },
       {
-        "id": 2,
-        "name": "Carlos",
-        "lastname": "Rodriguez",
-        "email": "carlos.rodriguez@upc.edu.pe",
-        "password": "securepass456",
-        "institution_name": "UPC",
-        "profile_picture": "https://imgur.com/hCMFf6B",
-        "role": "student",
-        "campus_id": 2,
-        "faculty_id": 18
+          "id": 2,
+          "name": "Carlos",
+          "lastname": "Rodriguez",
+          "email": "carlos.rodriguez@upc.edu.pe",
+          "password": "securepass456",
+          "institution_name": "UPC",
+          "profile_picture": "https://i.imgur.com/hCMFf6B.png",
+          "role": "student",
+          "campus_id": 2,
+          "faculty_id": 18
       },
       {
-        "id": 3,
-        "name": "María",
-        "lastname": "López",
-        "email": "maria.lopez@upc.edu.pe",
-        "password": "securepass789",
-        "institution_name": "UPC",
-        "profile_picture": "https://imgur.com/hCMFf6B",
-        "role": "student",
-        "campus_id": 3,
-        "faculty_id": 22
+          "id": 3,
+          "name": "María",
+          "lastname": "López",
+          "email": "maria.lopez@upc.edu.pe",
+          "password": "securepass789",
+          "institution_name": "UPC",
+          "profile_picture": "https://i.imgur.com/hCMFf6B.png",
+          "role": "student",
+          "campus_id": 3,
+          "faculty_id": 22
       },
       {
-        "id": 4,
-        "name": "Juan",
-        "lastname": "Martinez",
-        "email": "juan.martinez@upc.edu.pe",
-        "password": "securepass101",
-        "institution_name": "UPC",
-        "profile_picture": "https://imgur.com/hCMFf6B",
-        "role": "student",
-        "campus_id": 4,
-        "faculty_id": 37
+          "id": 4,
+          "name": "Juan",
+          "lastname": "Martinez",
+          "email": "juan.martinez@upc.edu.pe",
+          "password": "securepass101",
+          "institution_name": "UPC",
+          "profile_picture": "https://i.imgur.com/hCMFf6B.png",
+          "role": "student",
+          "campus_id": 4,
+          "faculty_id": 37
       }
-    ]
+  ]
 }
