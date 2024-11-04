@@ -237,13 +237,13 @@
           "id": 2,
           "name": "Carlos",
           "lastname": "Rodriguez",
-          "email": "carlos.rodriguez@upc.edu.pe",
-          "password": "securepass456",
+          "email": "student@gmail.com",
+          "password": "123456",
           "institution_name": "UPC",
           "profile_picture": "https://i.imgur.com/hCMFf6B.png",
           "role": "student",
-          "campus_id": 2,
-          "faculty_id": 18
+          "campus_id": 1,
+          "faculty_id": 1
       },
       {
           "id": 3,
